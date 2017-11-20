@@ -1,0 +1,31 @@
+{
+  "name": "phpsuit/collections",
+  "description": "An OOP representation and high level implementation of arrays",
+  "license": "OSL 3.0",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Oleg Bronzov",
+      "email": "oleg.bronzov@symmetrics.de"
+    }
+  ],
+  "config": {
+    "secure-http": false
+  },
+  "require": {
+    "php": "7.1.*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6"
+  },
+  "autoload": {
+    "psr-4": {
+      "PS\\Collections\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "PS\\Collections\\": "tests/"
+    }
+  }
+}
