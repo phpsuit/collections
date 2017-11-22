@@ -1,8 +1,8 @@
 {
   "name": "phpsuit/collections",
   "description": "An OOP representation and high level implementation of arrays",
-  "license": "OSL 3.0",
-  "version": "1.0",
+  "license": "MIT",
+  "version": "0.1",
   "authors": [
     {
       "name": "Oleg Bronzov",

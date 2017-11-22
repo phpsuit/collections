@@ -4,7 +4,7 @@
  *
  * @author    Oleg Bronzov <oleg.bronzov@gmail.com>
  * @copyright 2017 PHPSuit
- * @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+ * @license   https://opensource.org/licenses/MIT
  */
 
 declare(strict_types=1);
@@ -16,7 +16,7 @@ namespace PS\Collections;
  *
  * @author    Oleg Bronzov <oleg.bronzov@gmail.com>
  * @copyright 2017 PHPSuit
- * @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+ * @license   https://opensource.org/licenses/MIT
  */
 interface ImmutableCollectionInterface extends BaseInterface
 {
